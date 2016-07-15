@@ -24,5 +24,11 @@
     },
     "autoload-dev": {
         "classmap": ["tests"]
+    },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/Captiveyes/xsd2php-runtime"
     }
+  ]
 }
